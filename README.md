@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0137-single-number-ii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0268-missing-number) |
 | [0909-stone-game](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0909-stone-game) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
