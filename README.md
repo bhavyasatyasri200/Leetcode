@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0292-nim-game) |
 | [0909-stone-game](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0909-stone-game) |
+| [2752-sum-multiples](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2752-sum-multiples) |
 ## Brainteaser
 |  |
 | ------- |
