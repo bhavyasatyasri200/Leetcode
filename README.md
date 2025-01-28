@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0189-rotate-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0075-sort-colors) |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1153-product-sales-analysis-i](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1161-project-employees-i) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
