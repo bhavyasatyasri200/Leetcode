@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0890-lemonade-change](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0890-lemonade-change) |
 | [0909-stone-game](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0909-stone-game) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
