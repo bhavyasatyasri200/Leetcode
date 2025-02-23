@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-queries-quality-and-percentage](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1338-queries-quality-and-percentage) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1523-capital-gainloss](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1523-capital-gainloss) |
 | [1827-invalid-tweets](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1837-daily-leads-and-partners) |
 | [1877-find-followers-count](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1877-find-followers-count) |
