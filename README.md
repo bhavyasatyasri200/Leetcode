@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1462-list-the-products-ordered-in-a-period](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1827-invalid-tweets) |
+| [1837-daily-leads-and-partners](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1837-daily-leads-and-partners) |
 | [1877-find-followers-count](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
