@@ -1,11 +1,11 @@
 # Write your MySQL query statement below
-WITH cte AS (
-    SELECT managerId,COUNT(*) AS counter
-    FROM Employee
-    WHERE managerId IS NOT NULL
-    GROUP BY managerId
-    HAVING counter >= 5
+with cte as (
+    select managerid,COUNT(*) as counter
+    from employee
+    where managerid is not null
+    group by managerid
+    having counter >= 5
 )
-SELECT e.name
-FROM Employee e
-JOIN cte c ON e.id = c.managerId;
+select e.name
+from employee e
+join cte c on e.id = c.managerid;
