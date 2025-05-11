@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0890-lemonade-change) |
 | [0909-stone-game](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0909-stone-game) |
+| [1293-three-consecutive-odds](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
