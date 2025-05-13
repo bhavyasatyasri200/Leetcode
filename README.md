@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0292-nim-game) |
+| [0367-valid-perfect-square](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0909-stone-game](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0909-stone-game) |
 | [2752-sum-multiples](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0792-binary-search) |
 ## Bit Manipulation
