@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0268-missing-number) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0137-single-number-ii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0162-find-peak-element) |
@@ -278,4 +280,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
