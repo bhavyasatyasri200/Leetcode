@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2048-build-array-from-permutation](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2215-finding-3-digit-even-numbers](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Prefix Sum
