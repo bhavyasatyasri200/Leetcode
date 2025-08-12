@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0050-powx-n) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0206-reverse-linked-list) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0061-rotate-list) |
