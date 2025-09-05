@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0890-lemonade-change) |
 | [0909-stone-game](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0909-stone-game) |
+| [1046-max-consecutive-ones-iii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1293-three-consecutive-odds](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Counting
 |  |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
