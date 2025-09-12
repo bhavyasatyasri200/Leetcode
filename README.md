@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0742-to-lower-case) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0202-happy-number) |
