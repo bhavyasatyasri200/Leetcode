@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0455-assign-cookies) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
