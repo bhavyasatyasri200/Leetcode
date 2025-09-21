@@ -348,4 +348,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+## Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
