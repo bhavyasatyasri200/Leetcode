@@ -1,9 +1,8 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        if (nums == null || nums.length == 0) return new int[]{-1, -1};
+        if ( nums.length == 0) return new int[]{-1, -1};
         if (nums.length == 1) return nums[0] == target ? new int[]{0, 0} : new int[]{-1, -1};
         int left=0;
-       
         int right=nums.length-1;
         int first=-1;
         int last=-1;
