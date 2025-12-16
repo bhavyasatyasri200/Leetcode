@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0742-to-lower-case) |
+| [1021-remove-outermost-parentheses](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0155-min-stack) |
+| [1021-remove-outermost-parentheses](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Design
