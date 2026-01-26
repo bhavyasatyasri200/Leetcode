@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2215-finding-3-digit-even-numbers](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0890-lemonade-change) |
 | [0909-stone-game](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0909-stone-game) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1200-minimum-absolute-difference](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1293-three-consecutive-odds](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1293-three-consecutive-odds) |
