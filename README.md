@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2083-three-divisors) |
 | [2752-sum-multiples](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Brainteaser
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3429-special-array-i) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
