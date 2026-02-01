@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1200-minimum-absolute-difference](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [2215-finding-3-digit-even-numbers](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Greedy
 |  |
 | ------- |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2083-three-divisors](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2083-three-divisors) |
 | [2215-finding-3-digit-even-numbers](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Number Theory
 |  |
 | ------- |
