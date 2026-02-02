@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2215-finding-3-digit-even-numbers](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1430-find-the-k-beauty-of-a-number](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Tree
 |  |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Quickselect
 |  |
 | ------- |
