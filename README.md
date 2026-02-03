@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3429-special-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3637-trionic-array-i](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3637-trionic-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
