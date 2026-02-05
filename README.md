@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3379-transformed-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3379-transformed-array) |
 | [3429-special-array-i](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3429-special-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3637-trionic-array-i](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3637-trionic-array-i) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [3379-transformed-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3379-transformed-array) |
 ## Prefix Sum
 |  |
 | ------- |
