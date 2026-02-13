@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3617-find-the-original-typed-string-i](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3713-longest-balanced-substring-i](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 ## Math
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3713-longest-balanced-substring-i](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3714-longest-balanced-substring-ii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Counting
