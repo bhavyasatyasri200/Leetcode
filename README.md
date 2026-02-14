@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0799-champagne-tower](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0799-champagne-tower) |
 | [0909-stone-game](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1013-fibonacci-number) |
 | [3640-trionic-array-ii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3640-trionic-array-ii) |
