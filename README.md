@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2215-finding-3-digit-even-numbers](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2048-build-array-from-permutation](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0229-majority-element-ii) |
 | [1748-sum-of-unique-elements](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3713-longest-balanced-substring-i](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3713-longest-balanced-substring-i) |
