@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0389-find-the-difference) |
 | [0742-to-lower-case](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0742-to-lower-case) |
+| [0761-special-binary-string](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0761-special-binary-string) |
 | [0771-jewels-and-stones](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0645-set-mismatch) |
+| [0761-special-binary-string](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [2215-finding-3-digit-even-numbers](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0761-special-binary-string](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
