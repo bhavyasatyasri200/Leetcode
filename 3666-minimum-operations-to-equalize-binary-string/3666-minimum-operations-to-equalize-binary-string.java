@@ -1,30 +1,41 @@
 class Solution {
     public int minOperations(String s, int k) {
-        int n = s.length();
-        int zeros = 0;
+        int zero = 0;
+        int len = s.length();
 
-        for (char c : s.toCharArray()) {
-            if (c == '0') zeros++;
-        }
+        for (int i = 0; i < len; i++)
+            zero += ~s.charAt(i) & 1;
 
-        if (zeros == 0) return 0;
+        if (zero == 0)
+            return 0;
 
-        // Special case: full flip
-        if (k == n) {
-            if (zeros == n) return 1;
-            else return -1;
-        }
+        if (len == k)
+            return ((zero == len ? 1 : 0) << 1) - 1;
 
-        // If k is odd → always possible
-        if (k % 2 == 1) {
-            return zeros;
-        }
+        int base = len - k;
 
-        // k is even
-        if (zeros % 2 == 1) {
-            return -1;
-        }
+        int odd = Math.max(
+            (zero + k - 1) / k,
+            (len - zero + base - 1) / base
+        );
 
-        return zeros;
+        odd += ~odd & 1;
+
+        int even = Math.max(
+            (zero + k - 1) / k,
+            (zero + base - 1) / base
+        );
+
+        even += even & 1;
+
+        int res = Integer.MAX_VALUE;
+
+        if ((k & 1) == (zero & 1))
+            res = Math.min(res, odd);
+
+        if ((~zero & 1) == 1)
+            res = Math.min(res, even);
+
+        return res == Integer.MAX_VALUE ? -1 : res;
     }
 }
