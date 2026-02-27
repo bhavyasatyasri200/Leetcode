@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3617-find-the-original-typed-string-i](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-maximum-achievable-number](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Brainteaser
 |  |
 | ------- |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Binary Tree
 |  |
 | ------- |
@@ -496,4 +499,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
+## Union-Find
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Ordered Set
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
