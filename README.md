@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1732-find-the-highest-altitude](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1732-find-the-highest-altitude](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [3714-longest-balanced-substring-ii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
