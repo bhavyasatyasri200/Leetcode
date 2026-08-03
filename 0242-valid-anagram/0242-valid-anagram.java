@@ -1,10 +1,9 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-       if(s.length()!=t.length()) return false;
-       char[] sArray=s.toCharArray();
-       char[] tArray=t.toCharArray();
-       Arrays.sort(sArray);
-       Arrays.sort(tArray);
-       return Arrays.equals(sArray,tArray);
+        char[] S=s.toCharArray();
+        char[] T=t.toCharArray();
+        Arrays.sort(S);
+        Arrays.sort(T);
+        return Arrays.equals(S,T);
     }
 }
