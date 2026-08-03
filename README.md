@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0877-stone-game](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0877-stone-game) |
 | [0909-stone-game](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0877-stone-game) |
 | [0909-stone-game](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0909-stone-game) |
 ## Hash Table
 |  |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0792-binary-search) |
+| [0877-stone-game](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0877-stone-game) |
 | [0890-lemonade-change](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0890-lemonade-change) |
 | [0909-stone-game](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0909-stone-game) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0799-champagne-tower](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0799-champagne-tower) |
+| [0877-stone-game](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0877-stone-game) |
 | [0909-stone-game](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1013-fibonacci-number) |
 | [3640-trionic-array-ii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3640-trionic-array-ii) |
