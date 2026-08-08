@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0067-add-binary) |
+| [0682-baseball-game](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2128-reverse-prefix-of-word) |
