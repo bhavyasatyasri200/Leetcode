@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0389-find-the-difference) |
+| [0567-permutation-in-string](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0742-to-lower-case) |
 | [0761-special-binary-string](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0761-special-binary-string) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0706-design-hashmap) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -537,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
