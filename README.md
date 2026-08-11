@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0792-binary-search) |
 | [0877-stone-game](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0739-daily-temperatures) |
 ## Trie
 |  |
 | ------- |
