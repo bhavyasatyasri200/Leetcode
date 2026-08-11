@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0394-decode-string) |
 | [0567-permutation-in-string](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0742-to-lower-case) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0735-asteroid-collision) |
