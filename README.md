@@ -696,4 +696,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1095-find-in-mountain-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
