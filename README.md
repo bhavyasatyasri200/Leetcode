@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1095-find-in-mountain-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1200-minimum-absolute-difference](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1293-three-consecutive-odds](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1095-find-in-mountain-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Bit Manipulation
 |  |
@@ -687,4 +689,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [1095-find-in-mountain-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1095-find-in-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
