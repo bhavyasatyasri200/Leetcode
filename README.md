@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3194-find-words-containing-character](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Tree
 |  |
