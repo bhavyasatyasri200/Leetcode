@@ -8,23 +8,19 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
- import java.util.*;
 class Solution {
     public ListNode reverseList(ListNode head) {
-        List<Integer> list=new ArrayList<>();
-        ListNode  curr=head;
-        while(curr!=null){
-            list.add(curr.val);
-            curr=curr.next;
+        if(head==null) return null;
+        if(head.next==null) return head;
+        ListNode prevNode=null;
+        ListNode currNode=head;
+        while(currNode!=null){
+            ListNode nextNode=currNode.next;
+            currNode.next=prevNode;
+            prevNode=currNode;
+            currNode=nextNode;
         }
-        Collections.reverse(list);
-        ListNode dummy = new ListNode(0);
-        ListNode temp = dummy;
-        for (int i = 0; i < list.size(); i++) {
-            temp.next = new ListNode(list.get(i));
-            temp = temp.next;
-        }
-
-        return dummy.next;
+        head=prevNode;
+        return head;
     }
 }
