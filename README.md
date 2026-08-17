@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0761-special-binary-string) |
 | [0771-jewels-and-stones](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1078-remove-outermost-parentheses](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1078-remove-outermost-parentheses](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Design
