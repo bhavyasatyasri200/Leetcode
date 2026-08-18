@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0344-reverse-string) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0155-min-stack) |
