@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3379-transformed-array) |
 ## Prefix Sum
 |  |
