@@ -5,7 +5,7 @@ class Solution {
             ans.add(new ArrayList<>(list));
             return;
         }
-        if(ind==n) return;
+        // if(ind==n) return;
         for(int i=ind;i<n;i++){
             list.add(res[i]);
             solve(i+1,n,k,res,list,ans);
