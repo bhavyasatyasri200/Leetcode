@@ -637,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## String Matching
 |  |
@@ -778,4 +781,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
