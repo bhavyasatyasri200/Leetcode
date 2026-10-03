@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0394-decode-string) |
+| [0412-fizz-buzz](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0412-fizz-buzz) |
 | [0567-permutation-in-string](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0742-to-lower-case) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0877-stone-game) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1929-concatenation-of-array) |
