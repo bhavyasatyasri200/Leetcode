@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2048-build-array-from-permutation](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3731-find-missing-elements](https://github.com/bhavyasatyasri200/Leetcode/tree/master/3731-find-missing-elements) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/bhavyasatyasri200/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/bhavyasatyasri200/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
